@@ -1,6 +1,7 @@
 <?php
 $page = 'We do';
 
+
 include 'includes/header.php';
 include 'config/db.php';
 ?>
