@@ -47,10 +47,10 @@ $title = 'Izuba Finance';
 
 <body>
 
-    <div id="loader-div">
+<!--    <div id="loader-div">
         <img class="img-loader" src="vendor/loaders/loader.gif" alt="">
     </div>
-
+-->
     <header>
         <div class="brand rothen animate__animated animate__bounceIn">
             IZUBA FINANCE
