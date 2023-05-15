@@ -41,16 +41,16 @@ $title = 'Izuba Finance';
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
     <!-- JQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="vendor/Jquery/JQuery.js"></script>
 
 </head>
 
 <body>
 
-<!--    <div id="loader-div">
+    <div id="loader-div" class="d-none">
         <img class="img-loader" src="vendor/loaders/loader.gif" alt="">
     </div>
--->
+
     <header>
         <div class="brand rothen animate__animated animate__bounceIn">
             IZUBA FINANCE

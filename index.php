@@ -1,6 +1,6 @@
 <?php 
 $page = 'Home';
-include 'includes/header.php'; 
+include 'header.php'; 
 ?>
 <div class="top-img">
 
@@ -92,4 +92,4 @@ include 'includes/header.php';
     </div><!--- Partners here -->
 </div>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>

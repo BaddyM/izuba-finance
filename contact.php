@@ -1,7 +1,7 @@
 <?php
 $page = 'Contact';
 
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 
@@ -44,5 +44,5 @@ if(isset($_POST['send-message'])){
     echo '<script>window.alert("Message Sent Successfully")</script>';
 }
 
-include 'includes/footer.php';
+include 'footer.php';
 ?>

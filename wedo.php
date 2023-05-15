@@ -1,7 +1,7 @@
 <?php
 $page = 'We do';
 
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 <div class="container-fluid">
@@ -13,5 +13,5 @@ include 'config/db.php';
 </div>
 
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

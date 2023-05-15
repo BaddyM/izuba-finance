@@ -38,9 +38,9 @@
 <!-- Custom js -->
 <script rel="stylesheet" href="vendor/custom/main.js"></script>
 
-<script type="text/javascript">
+<script>
     $(window).load(function() {
-        $("#loader-div").fadeOut(1000);
+        $("#loader-div").fadeOut();
     });
 </script>
 

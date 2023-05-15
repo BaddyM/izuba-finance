@@ -1,6 +1,6 @@
 <?php
 $page = 'Loans';
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 
@@ -34,4 +34,4 @@ include 'config/db.php';
 
 </div>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>

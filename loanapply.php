@@ -1,7 +1,7 @@
 <?php
 $page = 'Apply';
 
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 <div class="container p-lg-3">
@@ -59,5 +59,5 @@ if (isset($_POST['apply'])) {
     echo '<script>window.alert("Applied Successfully")</script>';
 }
 
-include 'includes/footer.php';
+include 'footer.php';
 ?>

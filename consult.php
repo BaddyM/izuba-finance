@@ -1,6 +1,6 @@
 <?php
 $page = 'Consult';
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 <h5 class="text-center fw-bold text-decoration-underline p-2 animate__animated animate__flip">IZUBA CONSULTANCY</h5>
@@ -20,5 +20,5 @@ include 'config/db.php';
 </div>
 
 <?php
-include 'includes/footer.php';
+include 'footer.php';
 ?>

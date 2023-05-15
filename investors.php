@@ -1,6 +1,6 @@
 <?php
 $page = 'Investors';
-include 'includes/header.php';
+include 'header.php';
 include 'config/db.php';
 ?>
 
@@ -50,5 +50,5 @@ if (isset($_POST['invest'])) {
     echo '<script>window.alert("Sent Successfully")</script>';
 }
 
-include 'includes/footer.php';
+include 'footer.php';
 ?>
